@@ -20,6 +20,11 @@ public class Calculator {
         return result;
     }
 
+    public int divide(int firstNum, int secondNum) {
+        result = firstNum / secondNum;
+        return result;
+    }
+
 
 
 }
