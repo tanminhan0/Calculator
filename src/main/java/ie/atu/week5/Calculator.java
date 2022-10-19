@@ -10,6 +10,11 @@ public class Calculator {
         return result;
     }
 
+    public int subtract(int firstNum, int secondNum) {
+        result = firstNum - secondNum;
+        return result;
+    }
+
 
 
 
